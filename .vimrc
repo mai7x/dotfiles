@@ -6,5 +6,5 @@ set statusline+=%=%l/%L,%c%V%8P
 set encoding=utf-8
 set fileencodings=utf-8,iso-2022-jp,euc-jp,sjis
 
-// numbering
+"行番号をつける
 set number
